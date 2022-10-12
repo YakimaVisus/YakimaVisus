@@ -1,4 +1,4 @@
-[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hi I m Yakima Visus)](https://git.io/typing-svg)
+[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hi+I+m+Yakima+Visus)](https://git.io/typing-svg)
 
 <!--
 **YakimaVisus/YakimaVisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
