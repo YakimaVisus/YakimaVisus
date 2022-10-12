@@ -1,5 +1,15 @@
 [![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hi+I+m+Yakima+Visus)](https://git.io/typing-svg)
 
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+
 <!--
 **YakimaVisus/YakimaVisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
