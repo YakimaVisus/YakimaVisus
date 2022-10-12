@@ -1,4 +1,4 @@
-[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hi+I+m+Yakima+Visus)](https://git.io/typing-svg)
+[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=%9613b8&lines=hi+I+m+Yakima+Visus)](https://git.io/typing-svg)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YakimaVisus&theme=solarized_dark)
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-h
+
