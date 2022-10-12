@@ -3,7 +3,10 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ca00ff)
 ![Alt-текст](https://github.com/YakimaVisus/YakimaVisus/blob/main/yakcis.png "Ворк")![GitHub stats](https://github-readme-stats.vercel.app/api?username=YakimaVisus&show_icons=true&theme=jolly)
-[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=ca00ff&lines=Я+говнокодер+и+горжусь+этим)](https://git.io/typing-svg)
+<div align="center">
+ <a href="[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=ca00ff&lines=Я+говнокодер+и+горжусь+этим)](https://git.io/typing-svg)">[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=ca00ff&lines=Я+говнокодер+и+горжусь+этим)](https://git.io/typing-svg)</a>
+
+</div>
 <!--
 **YakimaVisus/YakimaVisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
