@@ -5,12 +5,13 @@
 ![Alt-текст](https://github.com/YakimaVisus/YakimaVisus/blob/main/yakcis.png "Ворк")![GitHub stats](https://github-readme-stats.vercel.app/api?username=YakimaVisus&show_icons=true&theme=jolly)
 <div class="text_g">
  Я говнокодер и горжусь этим
-</div>
-<style type="text/css">
+ <style type="text/css">
   .text_g {
     text-align: center;
      }
   </style>
+</div>
+
 <!--
 **YakimaVisus/YakimaVisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
