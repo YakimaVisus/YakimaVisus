@@ -3,9 +3,14 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ca00ff)
 ![Alt-текст](https://github.com/YakimaVisus/YakimaVisus/blob/main/yakcis.png "Ворк")![GitHub stats](https://github-readme-stats.vercel.app/api?username=YakimaVisus&show_icons=true&theme=jolly)
-<div align="center">
+<div class="text_g">
  Я говнокодер и горжусь этим
 </div>
+<style type="text/css">
+  .text_g {
+    text-align: center;
+     }
+  </style>
 <!--
 **YakimaVisus/YakimaVisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
