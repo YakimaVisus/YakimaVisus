@@ -1,4 +1,4 @@
-[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=#9613b8&lines=hi+I+m+Yakima+Visus)](https://git.io/typing-svg)
+[![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=%ca00ff&lines=hi+I+m+Yakima+Visus)](https://git.io/typing-svg)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YakimaVisus&theme=solarized_dark)
