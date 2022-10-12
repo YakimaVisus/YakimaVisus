@@ -1,6 +1,6 @@
-<div align="center">  
+
 [![YakimaVisus?](https://readme-typing-svg.herokuapp.com?color=ca00ff&lines=hi+I+m+Yakima+Visus)](https://git.io/typing-svg)
-</div>  
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ca00ff)
 ![Alt-текст](https://github.com/YakimaVisus/YakimaVisus/blob/main/yakcis.png "Ворк")![GitHub stats](https://github-readme-stats.vercel.app/api?username=YakimaVisus&show_icons=true&theme=jolly)
 
