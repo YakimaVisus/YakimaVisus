@@ -2,7 +2,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YakimaVisus&show_icons=true&theme=bear)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YakimaVisus&show_icons=true&theme=jolly)
 
 <!--
 **YakimaVisus/YakimaVisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
